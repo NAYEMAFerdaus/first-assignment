@@ -7,9 +7,14 @@ h1{font-size: 40px;
 .green-color{
     color:green;
 }
-section{
+.mission-part{
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 0px;
+    
+}
+.mission-item{
+    
+width:33.33%
 }
 .border-line{
     border-left:
@@ -17,11 +22,11 @@ section{
 }
 .home-part{
     width:40%;
-    padding-left: 2%;
+    padding-left: 5%;
     
 }
 .home-part img{
-    width:100%;
+    width:50%;
 }
 .link-button{
     text-decoration: none;
