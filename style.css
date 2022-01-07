@@ -50,6 +50,24 @@ border-radius:10px;
 img{
     width:100px;
 }
+.body-dev{
+    display: flex;
+    margin-bottom: 0px;
+}
+.body-dev-image img{
+    width: 50%;
+    padding-left: 250px;
+    
+}
+.body-dev-pra p span{
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.body-dev-pra{
+    padding-right: 150px;
+    margin-bottom: 0em;
+}
 .footer-add{
     text-align: center;
     background-color:rgb(29,28,28);
